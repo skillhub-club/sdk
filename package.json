@@ -1,6 +1,6 @@
 {
   "name": "@skill-hub/sdk",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Official SDK for SkillHub API - Types and client for AI agent skills",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -45,11 +45,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/skillhub-club/skillhub-sdk"
+    "url": "https://github.com/skillhub-club/sdk"
   },
   "homepage": "https://skillhub.club",
   "bugs": {
-    "url": "https://github.com/skillhub-club/skillhub-sdk/issues"
+    "url": "https://github.com/skillhub-club/sdk/issues"
   },
   "engines": {
     "node": ">=18"
